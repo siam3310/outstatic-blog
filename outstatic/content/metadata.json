@@ -1,6 +1,6 @@
 {
-  "commit": "92e2801c585cda9d6501c070bbd5b3709f341d58",
-  "generated": "2024-08-06T05:06:22.214Z",
+  "commit": "efed56e8e7e14899ae556220aee0e69440848b9c",
+  "generated": "2024-08-06T05:52:06.233Z",
   "metadata": [
     {
       "__outstatic": {
@@ -177,6 +177,26 @@
       "slug": "bangla",
       "status": "published",
       "title": "Bangla"
+    },
+    {
+      "__outstatic": {
+        "commit": "efed56e8e7e14899ae556220aee0e69440848b9c",
+        "hash": "3535431096",
+        "path": "outstatic/content/posts/gjdd.md"
+      },
+      "author": {
+        "name": "Mahamudun nabi siam",
+        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T06:27:54.558Z",
+      "slug": "gjdd",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Gjdd"
     }
   ]
 }
