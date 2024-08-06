@@ -1,0 +1,13 @@
+{
+  "title": "quality",
+  "type": "object",
+  "properties": {
+    "quality": {
+      "required": false,
+      "description": "Quality",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "quality"
+    }
+  }
+}
