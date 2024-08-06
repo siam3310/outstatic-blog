@@ -1,6 +1,6 @@
 {
-  "commit": "5aee964cd1dce41a9bb5e0dcfcd53179e2db6e41",
-  "generated": "2024-08-06T05:53:01.296Z",
+  "commit": "5b72aeea066abb184d414b0327e4534df39d6331",
+  "generated": "2024-08-06T05:53:15.472Z",
   "metadata": [
     {
       "__outstatic": {
@@ -257,6 +257,26 @@
       "tags": [
       ],
       "title": "Ewwdghhjd"
+    },
+    {
+      "__outstatic": {
+        "commit": "5b72aeea066abb184d414b0327e4534df39d6331",
+        "hash": "3448731913",
+        "path": "outstatic/content/posts/ffddtyhf.md"
+      },
+      "author": {
+        "name": "Mahamudun nabi siam",
+        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T06:29:08.023Z",
+      "slug": "ffddtyhf",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Ffddtyhf"
     }
   ]
 }
