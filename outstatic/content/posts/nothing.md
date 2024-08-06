@@ -1,5 +1,5 @@
 ---
-title: 'Nothing is wrong. Everything is perfect'
+title: 'Kota Andolon'
 status: 'published'
 author:
   name: 'Mahamudun Nabi'
