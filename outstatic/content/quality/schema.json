@@ -3,7 +3,7 @@
   "type": "object",
   "properties": {
     "quality": {
-      "required": false,
+      "required": true,
       "description": "Quality",
       "fieldType": "String",
       "dataType": "string",
