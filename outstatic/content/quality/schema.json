@@ -8,6 +8,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "quality"
+    },
+    "bollywood": {
+      "required": false,
+      "description": "Download Bollywood movies",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Bollywood"
     }
   }
 }
