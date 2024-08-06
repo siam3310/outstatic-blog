@@ -1,6 +1,6 @@
 {
-  "commit": "efed56e8e7e14899ae556220aee0e69440848b9c",
-  "generated": "2024-08-06T05:52:06.233Z",
+  "commit": "3df50c7ccde35def29ef599fe28b8fd39671e6e3",
+  "generated": "2024-08-06T05:52:29.443Z",
   "metadata": [
     {
       "__outstatic": {
@@ -197,6 +197,26 @@
       "tags": [
       ],
       "title": "Gjdd"
+    },
+    {
+      "__outstatic": {
+        "commit": "3df50c7ccde35def29ef599fe28b8fd39671e6e3",
+        "hash": "2890906052",
+        "path": "outstatic/content/posts/ttdddd.md"
+      },
+      "author": {
+        "name": "Mahamudun nabi siam",
+        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T06:28:22.254Z",
+      "slug": "ttdddd",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Ttdddd"
     }
   ]
 }
