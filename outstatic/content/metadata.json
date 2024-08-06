@@ -1,6 +1,6 @@
 {
-  "commit": "aa45f624da18f35bf65a7f484b2a29ecb2a334cb",
-  "generated": "2024-08-06T05:54:34.573Z",
+  "commit": "a028c172f633aec8f78938410632437185405924",
+  "generated": "2024-08-06T05:54:50.587Z",
   "metadata": [
     {
       "__outstatic": {
@@ -357,6 +357,26 @@
       "tags": [
       ],
       "title": "Fwwh"
+    },
+    {
+      "__outstatic": {
+        "commit": "a028c172f633aec8f78938410632437185405924",
+        "hash": "3093761128",
+        "path": "outstatic/content/posts/fdeee.md"
+      },
+      "author": {
+        "name": "Mahamudun nabi siam",
+        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T06:30:44.223Z",
+      "slug": "fdeee",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Fdeee"
     }
   ]
 }
