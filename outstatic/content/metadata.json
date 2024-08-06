@@ -1,6 +1,6 @@
 {
-  "commit": "afc20d05f6655e91f98ef160ef8fb9a533ff5aac",
-  "generated": "2024-08-06T05:53:47.104Z",
+  "commit": "ee0c2bb986bab8fcdbe361aa5dcd586d1ec856ba",
+  "generated": "2024-08-06T05:53:58.856Z",
   "metadata": [
     {
       "__outstatic": {
@@ -297,6 +297,26 @@
       "tags": [
       ],
       "title": "Ffddrg"
+    },
+    {
+      "__outstatic": {
+        "commit": "ee0c2bb986bab8fcdbe361aa5dcd586d1ec856ba",
+        "hash": "3311870392",
+        "path": "outstatic/content/posts/tttrr.md"
+      },
+      "author": {
+        "name": "Mahamudun nabi siam",
+        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T06:29:53.351Z",
+      "slug": "tttrr",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Tttrr"
     }
   ]
 }
