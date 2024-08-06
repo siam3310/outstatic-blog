@@ -1,6 +1,6 @@
 {
-  "commit": "4c3c2fcdbf1f037a6018bfc06532c5576c7f7211",
-  "generated": "Tue, 06 Aug 2024 04:56:54 GMT",
+  "commit": "d56ee1bc3781bf4ecdcdeb7422d8d820e32d0d26",
+  "generated": "2024-08-06T05:01:39.452Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,19 +122,25 @@
     },
     {
       "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "outstatic/content/posts/nothing-wrong.md"
+        "commit": "d56ee1bc3781bf4ecdcdeb7422d8d820e32d0d26",
+        "hash": "2989947875",
+        "path": "outstatic/content/posts/nothing.md"
       },
       "author": {
-        "name": "Andre Vitorio"
+        "name": "Mahamudun Nabi"
       },
       "collection": "posts",
       "coverImage": "/images/industrial-pattern.png",
       "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
+      "publishedAt": "2024-08-05T17:55:40.000Z",
+      "slug": "nothing",
       "status": "published",
+      "tags": [
+        {
+          "label": "siamsblog",
+          "value": "siamsblog"
+        }
+      ],
       "title": "Nothing is wrong. Everything is perfect"
     }
   ]
