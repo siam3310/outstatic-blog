@@ -1,6 +1,6 @@
 {
-  "commit": "5b72aeea066abb184d414b0327e4534df39d6331",
-  "generated": "2024-08-06T05:53:15.472Z",
+  "commit": "afc20d05f6655e91f98ef160ef8fb9a533ff5aac",
+  "generated": "2024-08-06T05:53:47.104Z",
   "metadata": [
     {
       "__outstatic": {
@@ -277,6 +277,26 @@
       "tags": [
       ],
       "title": "Ffddtyhf"
+    },
+    {
+      "__outstatic": {
+        "commit": "afc20d05f6655e91f98ef160ef8fb9a533ff5aac",
+        "hash": "1322589291",
+        "path": "outstatic/content/posts/ffddrg.md"
+      },
+      "author": {
+        "name": "Mahamudun nabi siam",
+        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T06:29:40.204Z",
+      "slug": "ffddrg",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Ffddrg"
     }
   ]
 }
