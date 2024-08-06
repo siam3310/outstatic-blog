@@ -1,6 +1,6 @@
 {
-  "commit": "ee0c2bb986bab8fcdbe361aa5dcd586d1ec856ba",
-  "generated": "2024-08-06T05:53:58.856Z",
+  "commit": "70261156ac352f70add923465950a4c0af17b280",
+  "generated": "2024-08-06T05:54:10.282Z",
   "metadata": [
     {
       "__outstatic": {
@@ -317,6 +317,26 @@
       "tags": [
       ],
       "title": "Tttrr"
+    },
+    {
+      "__outstatic": {
+        "commit": "70261156ac352f70add923465950a4c0af17b280",
+        "hash": "1265005038",
+        "path": "outstatic/content/posts/yygfftr.md"
+      },
+      "author": {
+        "name": "Mahamudun nabi siam",
+        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T06:30:04.466Z",
+      "slug": "yygfftr",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Yygfftr"
     }
   ]
 }
