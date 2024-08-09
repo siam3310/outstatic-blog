@@ -1,6 +1,6 @@
 {
   "commit": "ec5cd0c102d0dda366fa77a3a9cce23935b7d8d1",
-  "generated": "2024-08-09T04:25:14.855Z",
+  "generated": "2024-08-09T04:25:18.732Z",
   "metadata": [
     {
       "__outstatic": {
@@ -242,9 +242,9 @@
     },
     {
       "__outstatic": {
-        "commit": "5b72aeea066abb184d414b0327e4534df39d6331",
-        "hash": "3448731913",
-        "path": "outstatic/content/posts/ffddtyhf.md"
+        "commit": "afc20d05f6655e91f98ef160ef8fb9a533ff5aac",
+        "hash": "1322589291",
+        "path": "outstatic/content/posts/ffddrg.md"
       },
       "author": {
         "name": "Mahamudun nabi siam",
@@ -253,12 +253,12 @@
       "collection": "posts",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2024-08-06T06:29:08.023Z",
-      "slug": "ffddtyhf",
+      "publishedAt": "2024-08-06T06:29:40.204Z",
+      "slug": "ffddrg",
       "status": "published",
       "tags": [
       ],
-      "title": "Ffddtyhf"
+      "title": "Ffddrg"
     },
     {
       "__outstatic": {
