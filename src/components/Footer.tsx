@@ -6,10 +6,6 @@ const Footer = () => {
          © All rights reserved.{' '}
           <a className="underline" href="/">
             Siam's Blog
-          </a>{' '}
-          and{' '}
-          <a className="underline" href="/">
-           
           </a>
         </h3>
       </div>
