@@ -1,6 +1,6 @@
 {
-  "commit": "a028c172f633aec8f78938410632437185405924",
-  "generated": "2024-08-06T05:54:50.587Z",
+  "commit": "f4e0beeb05b25911373bbf9960fcb1205ae03020",
+  "generated": "2024-08-09T04:24:50.494Z",
   "metadata": [
     {
       "__outstatic": {
@@ -159,24 +159,6 @@
         }
       ],
       "title": "Kota Andolon"
-    },
-    {
-      "__outstatic": {
-        "commit": "92e2801c585cda9d6501c070bbd5b3709f341d58",
-        "hash": "2930785362",
-        "path": "outstatic/content/quality/bangla.md"
-      },
-      "author": {
-        "name": "Mahamudun nabi siam",
-        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
-      },
-      "collection": "quality",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-06T05:41:42.446Z",
-      "slug": "bangla",
-      "status": "published",
-      "title": "Bangla"
     },
     {
       "__outstatic": {
