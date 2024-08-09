@@ -1,6 +1,6 @@
 {
   "commit": "ec5cd0c102d0dda366fa77a3a9cce23935b7d8d1",
-  "generated": "2024-08-09T04:25:22.022Z",
+  "generated": "2024-08-09T04:25:25.183Z",
   "metadata": [
     {
       "__outstatic": {
@@ -162,26 +162,6 @@
     },
     {
       "__outstatic": {
-        "commit": "efed56e8e7e14899ae556220aee0e69440848b9c",
-        "hash": "3535431096",
-        "path": "outstatic/content/posts/gjdd.md"
-      },
-      "author": {
-        "name": "Mahamudun nabi siam",
-        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-06T06:27:54.558Z",
-      "slug": "gjdd",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Gjdd"
-    },
-    {
-      "__outstatic": {
         "commit": "3df50c7ccde35def29ef599fe28b8fd39671e6e3",
         "hash": "2890906052",
         "path": "outstatic/content/posts/ttdddd.md"
@@ -319,6 +299,26 @@
       "tags": [
       ],
       "title": "Yygfftr"
+    },
+    {
+      "__outstatic": {
+        "commit": "aa45f624da18f35bf65a7f484b2a29ecb2a334cb",
+        "hash": "3650582892",
+        "path": "outstatic/content/posts/fwwh.md"
+      },
+      "author": {
+        "name": "Mahamudun nabi siam",
+        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T06:30:24.752Z",
+      "slug": "fwwh",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Fwwh"
     },
     {
       "__outstatic": {
