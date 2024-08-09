@@ -1,6 +1,6 @@
 {
-  "commit": "f4e0beeb05b25911373bbf9960fcb1205ae03020",
-  "generated": "2024-08-09T04:24:50.494Z",
+  "commit": "ec5cd0c102d0dda366fa77a3a9cce23935b7d8d1",
+  "generated": "2024-08-09T04:25:07.989Z",
   "metadata": [
     {
       "__outstatic": {
@@ -219,26 +219,6 @@
       "tags": [
       ],
       "title": "Sghbg"
-    },
-    {
-      "__outstatic": {
-        "commit": "5aee964cd1dce41a9bb5e0dcfcd53179e2db6e41",
-        "hash": "1284848915",
-        "path": "outstatic/content/posts/ewwdghhjd.md"
-      },
-      "author": {
-        "name": "Mahamudun nabi siam",
-        "picture": "https://avatars.githubusercontent.com/u/164713293?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-06T06:28:49.247Z",
-      "slug": "ewwdghhjd",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Ewwdghhjd"
     },
     {
       "__outstatic": {
