@@ -1,38 +1,7 @@
 {
-  "commit": "ec5cd0c102d0dda366fa77a3a9cce23935b7d8d1",
-  "generated": "2024-08-09T04:25:41.172Z",
+  "commit": "e12ac653fb145c09e0ee85739359ce7da95c98b5",
+  "generated": "2024-08-28T08:12:37.107Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
-        "hash": "2506648264",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/jupiter-spaceship.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Learn how to create your blog with Outstatic"
-    },
     {
       "__outstatic": {
         "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
@@ -339,6 +308,37 @@
       "tags": [
       ],
       "title": "Fdeee"
+    },
+    {
+      "__outstatic": {
+        "commit": "e12ac653fb145c09e0ee85739359ce7da95c98b5",
+        "hash": "1975886949",
+        "path": "outstatic/content/posts/test.md"
+      },
+      "author": {
+        "name": "SAM"
+      },
+      "collection": "posts",
+      "coverImage": "/images/jupiter-spaceship.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "test",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Learn how to create your blog with Outstatic"
     }
   ]
 }
