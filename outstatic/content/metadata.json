@@ -1,6 +1,6 @@
 {
-  "commit": "e12ac653fb145c09e0ee85739359ce7da95c98b5",
-  "generated": "2024-08-28T08:12:37.107Z",
+  "commit": "57c309da53961ddfaaf879949a7963e9b149d7bf",
+  "generated": "2024-08-28T08:14:14.661Z",
   "metadata": [
     {
       "__outstatic": {
@@ -311,8 +311,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e12ac653fb145c09e0ee85739359ce7da95c98b5",
-        "hash": "1975886949",
+        "commit": "57c309da53961ddfaaf879949a7963e9b149d7bf",
+        "hash": "3511773787",
         "path": "outstatic/content/posts/test.md"
       },
       "author": {
@@ -338,7 +338,7 @@
           "value": "outstatic"
         }
       ],
-      "title": "Learn how to create your blog with Outstatic"
+      "title": "TEST"
     }
   ]
 }
